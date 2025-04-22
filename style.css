@@ -83,9 +83,14 @@ main a{
 
 main img{
     width: 100%;
-    display: block;
-    margin: auto;}
+    
+}
 
+main img.pequena{
+width: 50%;
+margin: auto;
+display: block;
+}
 nav{
     background: linear-gradient(to right,#235148, #008000);
     padding: 10px ;
